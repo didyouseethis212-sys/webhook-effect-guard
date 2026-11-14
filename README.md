@@ -1,6 +1,6 @@
 # Webhook Effect Guard
 
-[Run the free local browser audit](https://webhook-effect-guard.hjbjm.chatgpt.site)
+[Run the free local browser audit](https://webhook-effect-guard.mayasmile.workers.dev)
 
 HTTP200 is a delivery acknowledgement. It does not prove that a shipment or other business action was committed. This checker joins two normalized metadata exports by scope, eventId and action.
 
@@ -8,9 +8,9 @@ HTTP200 is a delivery acknowledgement. It does not prove that a shipment or othe
 
 Click **Run the synthetic example**. Five attempts across four event/actions produce one normal retry and three findings: multiple committed effects, acknowledged without effect, and committed without successful acknowledgement. No real customer data is used.
 
-- [Input and expected output JSON](https://webhook-effect-guard.hjbjm.chatgpt.site/example.json)
-- [Offline JavaScript package with17tests](https://webhook-effect-guard.hjbjm.chatgpt.site/package.zip)
-- [Input contract and setup guide](https://webhook-effect-guard.hjbjm.chatgpt.site/guide)
+- [Input and expected output JSON](https://webhook-effect-guard.mayasmile.workers.dev/example.json)
+- [Offline JavaScript package with17tests](https://webhook-effect-guard.mayasmile.workers.dev/package.zip)
+- [Input contract and setup guide](https://webhook-effect-guard.mayasmile.workers.dev/guide)
 
 ## Integration contract
 
